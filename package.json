@@ -1,0 +1,29 @@
+{
+  "name": "lw3-senior-flashloans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiltByFrancis/lw3-senior-flashloans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiltByFrancis/lw3-senior-flashloans/issues"
+  },
+  "homepage": "https://github.com/BuiltByFrancis/lw3-senior-flashloans#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.13.1",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.1"
+  }
+}
